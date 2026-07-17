@@ -32,3 +32,5 @@ footer{background:#0e211b;color:rgba(255,255,255,.65);padding:60px clamp(24px,8v
 @media (max-width:600px){.garden-story{margin-top:55px;padding:45px 0}.exceptional-green{padding-top:55px}.exceptional-green h3{font-size:34px}.water-balance{padding:40px 0}}
 .hero{background:#0e211b url("images/BelgraviaAceLivingRoom.png") center/cover no-repeat}
 .location-subtitle{margin:22px 0 0;color:#fff;font-family:var(--serif);font-size:clamp(26px,3vw,42px);font-weight:400;line-height:1.12}
+.intro-interior-gallery{margin-bottom:clamp(75px,9vw,130px)}
+.intro-interior-gallery figure:nth-child(4) img,.intro-interior-gallery figure:nth-child(5) img,.intro-interior-gallery figure:nth-child(6) img{object-fit:cover;background:transparent}
